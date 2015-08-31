@@ -20,6 +20,8 @@
                      | |                                   
                      |_|                                                                                                         
 
+==============> http://cornerstonelibrary.com <==================
+
 #################################################################
 
 This plugin template has all the basics you need to get started with building your own custom element for the Cornerstone Page Builder for WordPress. It was created by William <hello@bigwilliam.com>. Please let me know what you thing of this template, or ask me anything, at http://cornerstonelibrary.com/contact
