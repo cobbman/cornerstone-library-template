@@ -35,7 +35,7 @@ _____________________________________________________________
 
 ## Here's a couple things to keep in mind about this template:
 
-1. This plugin depends on the Cornerstone Page Builder plugin to be installed first. Learn more here: http://theme.co/cornerstone/
+1. This plugin depends on the Cornerstone Page Builder plugin to be installed first. You can get a copy by purchasing Theme X from Themeforest. Learn more here: http://theme.co/cornerstone/
 
 2. It is strongly suggested that you keep the Plugin name in the following format:
    "Cornerstone Library: {{your custom name here}}"
