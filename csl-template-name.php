@@ -29,14 +29,14 @@ add_action( 'wp_enqueue_scripts', 'csl_template_name_scripts', 100 );
 /*
  * => Load Shortcodes
  * ---------------------------------------------------------------------------*/
-require_once('includes/shortcodes.php');
+require_once('shortcodes/shortcodes.php');
 
 /*
  * => ADD CUSTOM ELEMENTS TO CORNERSTONE
  * ---------------------------------------------------------------------------*/
 function csl_template_name_elements() {
-	require_once( 'includes/template-name-element.php' );
-	require_once( 'includes/template-name-element-item.php' ); // include this if your item has a child type
+	require_once( 'elements/template-name-element.php' );
+	require_once( 'elements/template-name-element-item.php' );
   cornerstone_add_element( 'CSL_Template_Name' );
   cornerstone_add_element( 'CSL_Template_Name_Item' );
 }
