@@ -22,32 +22,21 @@
 
 ==============> http://cornerstonelibrary.com <==================
 
+
+# VERSION 2.4
+
 #################################################################
 
-This plugin template has all the basics you need to get started with building your own custom element for the Cornerstone Page Builder for WordPress. It was created by William <hello@bigwilliam.com>. Please let me know what you think, or ask me anything, at http://cornerstonelibrary.com/contact
+This plugin template has all the basics you need to get started with building your own custom element for the Cornerstone Page Builder for WordPress. It was created by the Cornertone team. The older version that used to be here (see git history) was created by William, but since Cornerstone updated the API, their team has provided this version.
+
 
 Cornerstone Library is a collection of community developed elements for Cornerstone. Learn more at: http://cornerstonelibrary.com
 
 For more information about building Cornerstone Elements, please reference: 
 https://theme.co/community/kb/cornerstone-custom-elements/
 
-_____________________________________________________________
+Coming Soon! I will be posting a video tutorial on how to make custom elements on http://cornerstonelibrary.com. If you are interested in getting notified, please sign up for the notification emails there.
 
-## Here's a couple things to keep in mind about this template:
+Any other questions, please email me (Willam) hello@bigwilliam.com
+__________________________________________________________________
 
-1. This plugin depends on the Cornerstone Page Builder plugin to be installed first. You can get a copy by purchasing Theme X from Themeforest. Learn more here: http://theme.co/cornerstone/
-
-2. It is strongly suggested that you keep the Plugin name in the following format:
-   "Cornerstone Library: {{your custom name here}}"
-
-3. You'll need to replace each instance of "Template Name" with your own custom name: (recommend search-replace across all files, case sensitive)
-   - Template_Name
-   - template_name
-   - template-name
-   - Template Name
-
-4. Here's some useful tips for building your own element:
-  - Browse the elements already made in Cornerstone to see what types of fields you can use: yoursite.com/wp-content/plugins/cornerstone/includes/modules/elements
-  - Check out the Themeco documentation (in case you missed it above): https://theme.co/community/kb/cornerstone-custom-elements/ 
-
-5. When you are finished creating your custom element, submit it at http://cornerstonelibrary.com/submit !!!
