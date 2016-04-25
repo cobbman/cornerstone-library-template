@@ -30,7 +30,7 @@
 This plugin template has all the basics you need to get started with building your own custom element for the Cornerstone Page Builder for WordPress. It was created by the Cornertone team. The older version that used to be here (see git history) was created by William, but since Cornerstone updated the API, their team has provided this version.
 
 
-Cornerstone Library is a collection of community developed elements for Cornerstone. Learn more at: http://cornerstonelibrary.com
+Cornerstone Library is a collection of community developed elements for Cornerstone. It is not officially supported by Themeco, but is run by volunteers. Learn more at: http://cornerstonelibrary.com
 
 For more information about building Cornerstone Elements, please reference: 
 https://theme.co/community/kb/cornerstone-custom-elements/
